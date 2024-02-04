@@ -1,0 +1,73 @@
+[
+  {
+    "name": "Own Website",
+    "desc": "Full fledged Website for Myself based on different design patterns. Built using Javascript, HTML, CSS, Jquery",
+    "image": "website",
+    "category": "web",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/notystack-android"
+    }
+  },
+  {
+    "name": "Music Player",
+    "desc": "Full fledged Web Music App based on different design patterns. Built using Javascript, HTML, CSS, Jquery",
+    "image": "musicplayer",
+    "category": "web",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/notystack-android"
+    }
+  },
+  {
+    "name": "SnakeMania Game",
+    "desc": "Web Based Game with graphics. Built By Javascript , CSS , HTML , Jquery , Bootstrap",
+    "image": "snake",
+    "category": "web",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/newsbox-android"
+    }
+  },
+  {
+    "name": "Resposive Netflix Clone Design",
+    "desc": "CLone of Netflix Official Design. Built using HTML, CSS and Bootstrap.",
+    "image": "netflix",
+    "category": "web",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/sppu-prep-android"
+    }
+  },
+
+  {
+    "name": "Amazon Clone Design",
+    "desc": "Amazon Clone Built using HTML and CSS and some Web Basics. ",
+    "image": "amazon",
+    "category": "web",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/weatherly-android"
+    }
+  },
+  {
+    "name": "Flappy Bird Game",
+    "desc": "Well Known Game Flappy Bird built by Pygame the library of Python.",
+    "image": "flappy",
+    "category": "python",
+    "links": {
+      "view": "https://instagramernstack.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/instagram-mern"
+    }
+  },
+  {
+    "name": "News Reading Using API",
+    "desc": "News reading app using Python with News API",
+    "image": "news",
+    "category": "python",
+    "links": {
+      "view": "https://flipkartwebs.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/flipkart-mern"
+    }
+  }
+]
